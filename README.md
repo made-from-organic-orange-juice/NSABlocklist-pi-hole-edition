@@ -19,11 +19,10 @@ This fork:
 This forked project includes
 ------------
 
-* A '[HOSTS](TBD)' file that includes all Servers/DNS domains that are known to be involved in spying. The confirmation is given within the _Research_ link(s) at the bottom and with my own tests.
-* An '[Super Ranges.txt](TBD)' file which includes a list of known IP ranges that are compromised (be careful with that!).
+* A '[HOSTS (excluding most GOV URLs)](https://github.com/Cauchon/NSABlocklist-pi-hole-edition/blob/master/HOSTS%20(excluding%20most%20GOV%20URLs))' file that includes all Servers/DNS domains that are known to be involved in spying. The confirmation is given within the _Research_ link(s) at the bottom and with my own tests.
+* A '[HOSTS (including excessive GOV URLs)](https://github.com/Cauchon/NSABlocklist-pi-hole-edition/blob/master/HOSTS%20(including%20excessive%20GOV%20URLs))' file that includes all Servers/DNS domains that are known to be involved in spying. The confirmation is given within the _Research_ link(s) at the bottom and with my own tests.
 * An '[LICENSE](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/LICENSE)' File to shows the MIT license.
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
-* An '[problematic.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/problematic.txt)' file which includes DNS/PTRs that are possible problematic for you.
 * The 'References.txt' which contains relevant information about spying or additional topics which may related to reveal surveillance.
 
 Any problems, questions or something wrong?
